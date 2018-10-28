@@ -4,7 +4,7 @@ author: Damien Gilliams & Liz Legrande
 description: > # Meta description of Homepage
   Bringing Dance and Meditation to the Underprivileged.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://damosdesigns.com/peru"
+url: "http://www.abundanceperu.com"
 # SEO PLUGIN
 social:
   name: Dance and Meditation
@@ -20,7 +20,7 @@ navigation: # Navigation links
 tagline: >
     Bringing Dance and Meditation to the Underprivileged.
 
-hero_img: posts/fountain_fotoshoot_2_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/fountain_fotoshoot_2_md.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: damosdesigns@gmail.com # email for form submission
 
