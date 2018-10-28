@@ -1,0 +1,64 @@
+# SITE CONFIGURATION
+title: abunDANCEperu
+author: Damien Gilliams & Liz Legrande
+description: > # Meta description of Homepage
+  Bringing Dance and Meditation to the Underprivileged.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://damosdesigns.com/peru"
+# SEO PLUGIN
+social:
+  name: Dance and Meditation
+  links:
+    # - https://twitter.com/
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Blog', link: '/blog'}
+  - {name: 'Contact', link: '/contact'}
+
+tagline: >
+    Bringing Dance and Meditation to the Underprivileged.
+
+hero_img: posts/fountain_fotoshoot_2_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: damosdesigns@gmail.com # email for form submission
+
+# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+# github_username:  dgilliams # replace with your_github_username or comment to remove link from footer
+instagram_username: lizlegrande # replace with your_instagram_username or comment to remove link from footer
+instagram_username_2: damos_designs
+disqus:
+  shortname: damosdesigns-com # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+
+include: ['_pages']
+permalink: /:title/
+include: ['_success']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
