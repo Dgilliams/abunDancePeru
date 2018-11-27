@@ -3,10 +3,21 @@
             margin:auto;
 }
 
-.centered_image_wrapper {
-            margin:20px;
+.full_media_container {
+            width: 100%;
+            margin:auto;
+}
+
+.full_image_wrapper {
             position: relative;
-            padding-bottom: 178%;
+            width: 100vw;
+            height: auto;
+            left: -20px;
+}
+
+.centered_image_wrapper {
+            position: relative;
+            padding-bottom: 100%;
             overflow: hidden;
 }
 

@@ -8,43 +8,43 @@ layout: default
 title: Make a Difference
 ---
 
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/abundance_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/abundance_md.jpg" alt="missing image">
     </div>
 </figure>
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/connection_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/connection_md.jpg" alt="missing image">
     </div>
 </figure>
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/contagious_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/contagious_md.jpg" alt="missing image">
     </div>
 </figure>
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/heart_light_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/heart_light_md.jpg" alt="missing image">
     </div>
 </figure>
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/show_up_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/show_up_md.jpg" alt="missing image">
     </div>
 </figure>
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/still_the_mind_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/still_the_mind_md.jpg" alt="missing image">
     </div>
 </figure>
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/vessels_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/vessels_md.jpg" alt="missing image">
     </div>
 </figure>
-<figure class="media_container">
-    <div class="centered_image_wrapper">
-      <img src="/assets/img/posts/wavey_sm.jpg" alt="missing image">
+<figure class="full_media_container">
+    <div class="full_image_wrapper">
+      <img src="/assets/img/posts/wavey_md.jpg" alt="missing image">
     </div>
 </figure>
