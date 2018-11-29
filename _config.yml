@@ -14,7 +14,6 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Blog', link: '/blog'}
   - {name: 'Bio', link: '/bio'}
   - {name: 'Contact', link: '/contact'}
 
