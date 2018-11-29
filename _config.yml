@@ -15,6 +15,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Bio', link: '/bio'}
+  - {name: 'Q&A', link: '/qa'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >

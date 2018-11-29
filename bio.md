@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Bio
+title: All we have is now
 permalink: /bio/
 ---
-<h2  style="text-align:center;">All we have is now  </h2>
 <h1  style="text-align:center;"> TAP IN. TUNE IN. TURN ON. </h1>
 <figure class="media_container">
     <div class="centered_image_wrapper">
@@ -58,22 +57,7 @@ state with their outer... A one of a kind class that is designed to reconnect yo
 </figure>
 <figure class="full_media_container">
     <div class="full_image_wrapper">
-      <img src="/assets/img/posts/abunDANCE_Page_4_md.jpg" alt="missing image">
-    </div>
-</figure>
-<figure class="full_media_container">
-    <div class="full_image_wrapper">
-      <img src="/assets/img/posts/abunDANCE_Page_5_md.jpg" alt="missing image">
-    </div>
-</figure>
-<figure class="full_media_container">
-    <div class="full_image_wrapper">
       <img src="/assets/img/posts/abunDANCE_Page_6_md.jpg" alt="missing image">
-    </div>
-</figure>
-<figure class="full_media_container">
-    <div class="full_image_wrapper">
-      <img src="/assets/img/posts/abunDANCE_Page_7_md.jpg" alt="missing image">
     </div>
 </figure>
 <figure class="full_media_container">
